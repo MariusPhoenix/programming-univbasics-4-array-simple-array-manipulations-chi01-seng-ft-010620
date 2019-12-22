@@ -40,5 +40,5 @@ end
   
   using_delete (bed_sheets)
   bed_sheets.delete
- end-of-input
+  end-of-input
   
