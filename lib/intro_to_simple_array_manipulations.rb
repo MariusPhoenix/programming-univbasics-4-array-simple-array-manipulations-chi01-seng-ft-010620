@@ -22,7 +22,7 @@ end
    sour_cream_brands.shift(2)
 end
   
-  def using_concat
-    
+  def using_concat(costco_list, whole_foods_list)
+    groceries.concat(costco_list, whole_foods_list)
   end
   
