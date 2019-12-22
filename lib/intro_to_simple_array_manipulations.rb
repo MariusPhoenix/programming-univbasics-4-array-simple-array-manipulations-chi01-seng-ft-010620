@@ -30,3 +30,6 @@ end
     list_of_programming_languages.insert(4, python)
   end
   
+  def using_uniq(duplicates)
+    duplicates.uniq
+  end
