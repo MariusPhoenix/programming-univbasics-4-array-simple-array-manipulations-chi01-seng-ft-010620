@@ -34,11 +34,11 @@ end
     duplicates.uniq
   end
   
-  def using_flatten (treasures)
+  def using_flatten(treasures)
     treasures.flatten
   end
   
-  def using_delete (bed_sheets)
+  def using_delete(bed_sheets)
     bed_sheets.delete
   end
 
