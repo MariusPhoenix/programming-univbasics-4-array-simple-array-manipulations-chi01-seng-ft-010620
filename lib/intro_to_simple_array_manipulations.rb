@@ -39,7 +39,7 @@ end
   end
   
   def using_delete(bed_sheets, blanket)
-    bed_sheets.delete
+    bed_sheets.delete(blanket)
   end
 
   
