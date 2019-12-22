@@ -26,7 +26,7 @@ end
     costco_list.concat(whole_foods_list)
   end
   
-  def using_insert(list_of_programming_languages, puppy)
-    my_dogs.insert(puppy[4])
+  def using_insert(list_of_programming_languages, python)
+    list_of_programming_languages.insert(python)
   end
   
