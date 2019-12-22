@@ -26,7 +26,7 @@ end
     costco_list.concat(whole_foods_list)
   end
   
-  def using_insert(my_dogs, puppies)
-    my_dogs.insert(puppies)
+  def using_insert(my_dogs, puppy)
+    my_dogs.insert(puppy)
   end
   
