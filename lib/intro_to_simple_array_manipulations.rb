@@ -23,6 +23,6 @@ end
 end
   
   def using_concat(costco_list, whole_foods_list)
-    groceries.concat(costco_list, whole_foods_list)
+    costco_list.concat(whole_foods_list)
   end
   
