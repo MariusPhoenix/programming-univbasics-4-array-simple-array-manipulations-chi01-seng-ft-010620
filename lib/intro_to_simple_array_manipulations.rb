@@ -27,6 +27,6 @@ end
   end
   
   def using_insert(list_of_programming_languages, python)
-    list_of_programming_languages.insert(python)[4]
+    list_of_programming_languages.push(python)
   end
   
