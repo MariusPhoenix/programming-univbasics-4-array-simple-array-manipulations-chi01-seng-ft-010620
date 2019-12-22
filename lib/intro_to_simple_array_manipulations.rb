@@ -26,3 +26,5 @@ end
     costco_list.concat(whole_foods_list)
   end
   
+  def using_insert
+  
