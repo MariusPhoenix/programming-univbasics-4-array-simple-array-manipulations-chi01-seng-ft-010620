@@ -27,6 +27,6 @@ end
   end
   
   def using_insert(my_dogs, "puppies")
-    my_dogs.insert("puppies")
+    my_dogs.insert(puppies)
   end
   
