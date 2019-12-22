@@ -10,4 +10,7 @@ def using_pop(continents)
   continents.pop
 end
 
-def shift_with_args
+def shift_with_args(icecream_brands)
+  icecream_brands.pop(2)
+  
+end
