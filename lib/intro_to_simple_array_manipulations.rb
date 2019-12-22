@@ -10,3 +10,4 @@ def using_pop(continents)
   continents.pop
 end
 
+def shift_with_args
