@@ -38,7 +38,7 @@ end
     treasures.flatten
   end
   
-  def using_delete(bed_sheets)
+  def using_delete(bed_sheets, blanket)
     bed_sheets.delete
   end
 
