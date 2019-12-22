@@ -27,6 +27,6 @@ end
   end
   
   def using_insert(list_of_programming_languages, python)
-    python.insert(4)
+    list_of_programming_languages.insert(4, python)
   end
   
