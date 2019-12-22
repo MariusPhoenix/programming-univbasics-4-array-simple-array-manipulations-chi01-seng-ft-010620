@@ -35,7 +35,7 @@ end
   end
   
   def using_flatten (treasures, jewels)
-    trasures.flatten
+    using_flatten.flatten
   end
   
   
