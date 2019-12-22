@@ -42,8 +42,7 @@ end
     bed_sheets.delete(blanket)
   end
 
-  def using_delete.at(list)
-    list.delete(3)
-  end
+
+  
   
   
