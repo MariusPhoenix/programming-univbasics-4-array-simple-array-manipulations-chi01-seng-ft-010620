@@ -19,7 +19,7 @@ def using_shift(my_favorite_cities)
 end
   
  def shift_with_args(sour_cream_brands)
-   
+   sour_cream_brands.shift(2)
 end
   
   
