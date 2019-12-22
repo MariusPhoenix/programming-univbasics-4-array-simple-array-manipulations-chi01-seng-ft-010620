@@ -12,5 +12,6 @@ end
 
 def pop_with_args(icecream_brands)
   icecream_brands.pop(2)
+  end
   
-end
+def using_shift
