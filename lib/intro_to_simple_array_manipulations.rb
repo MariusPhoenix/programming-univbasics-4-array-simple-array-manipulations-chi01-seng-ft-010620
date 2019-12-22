@@ -34,8 +34,8 @@ end
     duplicates.uniq
   end
   
-  def using_flatten (treasures, jewels)
-    using_flatten.flatten
+  def using_flatten (treasures)
+    treasures.flatten
   end
   
   
