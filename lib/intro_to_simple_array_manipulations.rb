@@ -38,4 +38,7 @@ end
     treasures.flatten
   end
   
+  using_delete (bed_sheets)
+  bed_sheets.delete
+ end
   
